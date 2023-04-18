@@ -14,7 +14,7 @@
 - I am a Java Programmer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 - :telescope:Currently A 2nd Year student at my uni.
 
-- :seedling: Exploring how to create applications.
+- :seedling: Exploring how to distributable create applications.
 
 - :zap: In my free time, I like to play games.
 
