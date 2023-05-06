@@ -8,7 +8,7 @@
 
 - :zap: In my free time, I like to play games.
 
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kisura-w-s-p-b28948237/)
+- :mailbox: How to reach me [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kisura-w-s-p-b28948237/)
 
 <div>
   <h3>Skills</h3>
