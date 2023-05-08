@@ -3,9 +3,7 @@
 
 - :computer: I am a Programmer 
 - :telescope: Currently A 2nd Year student at my uni.
-
 - :seedling: Exploring how to create distributable applications.
-
 - :zap: In my free time, I like to play games.
 
 <div>
@@ -22,9 +20,10 @@
 </div>
 
 ###  My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=KisuraWSP&theme=dark)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KisuraWSP&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Kisura's GitHub stats](https://github-readme-stats.vercel.app/api?username=KisuraWSP)](https://github.com/anuraghazra/github-readme-stats)
+[![Kisura's GitHub stats](https://github-readme-stats.vercel.app/api?username=KisuraWSP)](https://github.com/anuraghazra/github-readme-stats)<br>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=KisuraWSP)](https://git.io/streak-stats)<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KisuraWSP&layout=compact)](https://github.com/anuraghazra/github-readme-stats)<br>
+
 <!--
 **KisuraWSP/KisuraWSP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
