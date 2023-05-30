@@ -1,25 +1,33 @@
-<h2> Information About Me </h2>
+<h2>Kisura's Github Page</h2>
 
+### Information About Myself 
+<p>
+     Current Status: I am a 2nd Year student at my university <br>
+</p>
 
-- :computer: I am a Programmer 
-- :telescope: Currently A 2nd Year student at my uni.
-- :seedling: Exploring how to create distributable applications.
-- :zap: In my free time, I like to play games.
+#### Skills
+<ul>
+  <li>C</li>
+  <li>C++</li>
+  <li>Java</li>
+  <li>C#</li>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>mySQL</li>
+</ul>
 
-<div>
-  <h3>Skills</h3>
-  <ul>
-    <li>C</li>
-    <li>C++</li>
-    <li>Java</li>
-    <li>C#</li>
-    <li>HTML</li>
-    <li>CSS</li>
-    <li>mySQL</li>
-  </ul>
-</div>
+#### Interests
+- Learning new programming languages
+- Creating & selling of professional software
 
-###  My Stats :
+#### Hobbies
+- Gaming
+- Playing around with different programming languages
+- Reading books & manga
+- Watching Anime
+- Looking at Cars
+
+####  My Statistics :
 ![Kisura's GitHub stats](https://github-readme-stats.vercel.app/api?username=KisuraWSP&show_icons=true)<br>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=KisuraWSP)](https://git.io/streak-stats)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KisuraWSP&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)<br>
