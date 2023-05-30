@@ -16,6 +16,14 @@
   <li>mySQL</li>
 </ul>
 
+#### Goals
+- Make good enough software which statisfies the clients
+- Make useful software which will actually benefit any user
+- Become a better programmer & developer
+- Create some open-source software/tools which anyone can edit & contribute
+- Fill this github account with repositories which anyone can fork, do contributions, etc
+- Provide stable software 
+
 #### Interests
 - Learning new programming languages
 - Creating & selling of professional software
