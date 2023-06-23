@@ -14,6 +14,7 @@
   <li>HTML</li>
   <li>CSS</li>
   <li>mySQL</li>
+  <li>GO</li>
 </ul>
 
 #### Goals
