@@ -3,6 +3,7 @@
 ### Information About Myself 
 <p>
      Current Status: I am a 2nd Year student at my university <br>
+     Favorite Games:- Stardew Valley, Terraria & Minecraft
 </p>
 
 #### Skills
