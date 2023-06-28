@@ -26,6 +26,9 @@
 #### Interests
 - Learning new programming languages
 - Creating & selling of professional software
+- Esoteric Programming Languages
+- Game Development
+- Pixel Art Creation
 
 #### Hobbies
 - Gaming
