@@ -6,16 +6,14 @@
 </p>
 
 #### Skills
-<ul>
-  <li>C</li>
-  <li>C++</li>
-  <li>Java</li>
-  <li>C#</li>
-  <li>HTML</li>
-  <li>CSS</li>
-  <li>mySQL</li>
-  <li>GO</li>
-</ul>
+- C
+- C++
+- C#
+- Java
+- HTML
+- CSS
+- mySQL
+- Go
 
 #### Goals
 - Make good enough software which statisfies the clients
