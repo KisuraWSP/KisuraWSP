@@ -43,8 +43,14 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=KisuraWSP)](https://git.io/streak-stats)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KisuraWSP&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)<br>
 
-#### These are just ideas for now, maybe in the new future i will create them
-
+#### These are just ideas for now, maybe in the future i will create them
+[simp](https://github.com/KisuraWSP/simp_)
+[html2](https://github.com/KisuraWSP/html2_)
+[hts](https://github.com/KisuraWSP/HypherTextScript)
+[generalized assembly](https://github.com/KisuraWSP/generalized-assembly)
+[modern holy c](https://github.com/KisuraWSP/modern-Holy-C)
+[stadew the programming language](https://github.com/KisuraWSP/.stardew)
+> These are some ideas i proposed, i doubt they would actually would but lets see
 <!--
 **KisuraWSP/KisuraWSP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
