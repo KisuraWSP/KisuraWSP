@@ -50,7 +50,7 @@
 [generalized assembly](https://github.com/KisuraWSP/generalized-assembly)<br>
 [modern holy c](https://github.com/KisuraWSP/modern-Holy-C)<br>
 [stadew the programming language](https://github.com/KisuraWSP/.stardew)<br>
-> These are some ideas i proposed, i doubt they would actually would but lets see
+> These are some ideas i proposed, i doubt they would actually work but lets see
 <!--
 **KisuraWSP/KisuraWSP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
