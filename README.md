@@ -1,5 +1,6 @@
 <h2>Kisura's Github Page</h2>
-
+![](https://komarev.com/ghpvc/?username=KisuraWSP&color=green)
+<br>
 ### Information About Myself 
 <p>
      Current Status: I am a 2nd Year student at my university <br>
