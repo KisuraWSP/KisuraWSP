@@ -1,5 +1,5 @@
 <h2>Kisura's Github Page</h2>
-![](https://komarev.com/ghpvc/?username=KisuraWSP&color=green)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=KisuraWSP&label=Profile%20views&color=0e75b6&style=flat" alt="devinbi" /> </p>
 <br>
 ### Information About Myself 
 <p>
