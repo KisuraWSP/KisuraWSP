@@ -36,8 +36,8 @@
 - Gaming
 - Playing around with different programming languages
 - Reading books & manga
-- Watching Anime
-- Looking at Cars
+- Anime
+- Cars
 
 ####  My Github Statistics 
 ![Kisura's GitHub stats](https://github-readme-stats.vercel.app/api?username=KisuraWSP&show_icons=true)<br>
