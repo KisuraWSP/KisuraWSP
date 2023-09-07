@@ -1,6 +1,6 @@
 <h2>Kisura's Github Page</h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=KisuraWSP&label=Profile%20views&color=0e75b6&style=flat" alt="devinbi" /> </p>
-<br>
+
 ### Information About Myself 
 <p>
      Current Status: I am a 2nd Year student at my university <br>
@@ -14,15 +14,15 @@
 - Java
 - HTML
 - CSS
-- mySQL
+- MySQL
 - Go
 
 #### Goals
-- Make good enough software which statisfies the clients
-- Make useful software which will actually benefit any user
+- Make good enough software which satisfies the clients
+- Make useful software that will actually benefit any user
 - Become a better programmer & developer
-- Create some open-source software/tools which anyone can edit & contribute
-- Fill this github account with repositories which anyone can fork, do contributions, etc
+- Create some open-source software/tools that anyone can edit & contribute
+- Fill this GitHub account with repositories that anyone can fork, make contributions, etc
 - Provide stable software 
 
 #### Interests
