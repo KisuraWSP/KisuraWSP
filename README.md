@@ -1,6 +1,4 @@
 <h2>Kisura's Github Page</h2>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=KisuraWSP&label=Profile%20views&color=0e75b6&style=flat" alt="devinbi" /> </p>
-
 ### Information About Myself 
 <p>
      Current Status: I am a 2nd Year student at my university <br>
