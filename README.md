@@ -35,7 +35,7 @@
 - Gaming
 - Playing around with different programming languages
 - Reading books & manga
-- Anime -> [{view my anime list here}](https://myanimelist.net/profile/KisuraSwmpai2003)
+- Anime 
 - Cars
 
 ####  My Github Statistics 
