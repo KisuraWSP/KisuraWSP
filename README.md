@@ -15,6 +15,7 @@
 - CSS
 - MySQL
 - Go
+- Rust
 
 #### Goals
 - Make good enough software which satisfies the clients
