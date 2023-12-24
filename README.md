@@ -17,6 +17,7 @@
 - Go
 - Rust
 - Kotlin
+- Python
 
 #### Goals
 - Make good enough software that satisfies the clients
