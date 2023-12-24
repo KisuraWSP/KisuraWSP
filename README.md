@@ -16,10 +16,11 @@
 - MySQL
 - Go
 - Rust
+- Kotlin
 
 #### Goals
-- Make good enough software which satisfies the clients
-- Make useful software that will actually benefit any user
+- Make good enough software that satisfies the clients
+- Make useful software that will benefit any user
 - Become a better programmer & developer
 - Create some open-source software/tools that anyone can edit & contribute
 - Fill this GitHub account with repositories that anyone can fork, make contributions, etc
